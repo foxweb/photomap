@@ -22,3 +22,5 @@ MIT License. Используйте как хотите и где хотите �
 
 ## Ссылки
 - https://tech.yandex.ru/maps/jsbox/2.1
+- https://sysadmincasts.com/episodes/53-extracting-image-metadata-to-json-using-imagemagick
+- https://medium.com/devschacht/https-medium-com-kasimoka-joseph-zimmerman-drag-drop-file-uploader-vanilla-js-de850d74aa2f
